@@ -1,0 +1,19 @@
+,,,
+,,,
+,,,
+,Sprint,Id,Historias de usuario
+,1,1,El trader quiere que el bot muestre una estructura básica del panel de control para establecer sus expectativas
+,,2,"El trader quiere que se pueda elegir el tipo de mercado (acciones, criptomonedas, divisas) para definir el entorno de trading"
+,,3,El trader quiere configurar un perfil inicial con su nivel de experiencia y tolerancia al riesgo para personalizar el bot
+,2,4,El trader quiere que el bot se conecte a una cuenta demo de un bróker para realizar pruebas sin arriesgar dinero real
+,,5,El trader quiere que el bot pueda conectarse a una API de brókeres para obtener datos de mercado en tiempo real
+,,6,El trader quiere que el bot muestre un dashboard con gráficos básicos de precios y volúmenes para analizar el mercado
+,3,7,"El trader quiere que el bot cuente con indicadores técnicos (ej. medias móviles, RSI) para apoyar la toma de decisiones"
+,,8,El trader quiere que el bot implemente una estrategia simple de trading (ej. cruce de medias móviles) para ejecutar órdenes
+,,9,El trader quiere que el bot registre en un historial todas las operaciones realizadas para poder evaluar el rendimiento
+,4,10,"El trader quiere que el bot permita configurar parámetros de gestión de riesgo (stop loss, take profit) para proteger el capital"
+,,11,El trader quiere que el bot guarde sus configuraciones personalizadas de estrategia para usarlas en sesiones futuras
+,,12,El trader quiere que el bot pueda enviar notificaciones cuando se ejecute una operación para estar informado en tiempo real
+,5,13,El trader quiere que el bot optimice automáticamente una estrategia con base en datos históricos (backtesting)
+,,14,"El trader quiere que el bot genere reportes con métricas de rendimiento (ganancias, pérdidas, drawdown) para analizar resultados"
+,,15,El trader quiere que el bot pueda cambiar de cuenta demo a cuenta real de forma segura para comenzar a operar con dinero real
